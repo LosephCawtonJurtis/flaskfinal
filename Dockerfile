@@ -13,4 +13,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5000
 
 # run the command I had to change this to run my program instead of the tutorial's
-CMD ["python", "./rickroll.py"
+CMD ["python", "./rickroll.py"]
